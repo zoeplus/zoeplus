@@ -1,6 +1,6 @@
 ### Hello from the other world 👋
 
-I am zoeplus, 20F, an undergraduate at Nankai University
+I am zoeplus, 20M, an undergraduate at Nankai University
 
 Interested in
 - Machine Learning
