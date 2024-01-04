@@ -7,7 +7,7 @@ Interested in
 - Math
 - Music
 
-That's is:)
+That's it:)
 
 <!--
 **zoeplus/zoeplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
