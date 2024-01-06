@@ -1,13 +1,9 @@
 ### Hello from the other world 👋
 
-I am zoeplus, 20M, an undergraduate at Nankai University
-
 Interested in
 - Machine Learning
 - Math
 - Music
-
-That's it:)
 
 <!--
 **zoeplus/zoeplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
