@@ -1,9 +1,4 @@
-### Hello from the other world 👋
-
-Interested in
-- Machine Learning
-- Math
-- Music
+Hello.
 
 <!--
 **zoeplus/zoeplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
